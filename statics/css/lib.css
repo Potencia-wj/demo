@@ -110,8 +110,8 @@
 #fd{background-color: #292a2e;border-top: 4px solid #1a636b;}
 .wp{ width:1120px; margin:0 auto;}
 .fd-logo{margin-bottom: 14px;margin-top: 35px;}
-#fd .col-l{height:434px;border-right: 1px solid #35373c;margin-right: 37px;}
-#fd .col-c{height:434px;border-right: 1px solid #35373c;}
+#fd .col-l{border-right: 1px solid #35373c;margin-right: 37px;}
+#fd .col-c{border-right: 1px solid #35373c;}
 #fd .fd-nav{float:left;margin-right: 43px;font-size: 14px;}
 .fd-nav li a{color: #ccc;}
 .fd-nav li{line-height: 25px;}  
