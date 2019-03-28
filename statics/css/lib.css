@@ -4,7 +4,7 @@
 #top{background: #4a4c52;}
 #top div{width: 1120px;height: 43px;margin:0 auto;line-height: 43px;}
 #top div p{color: #fff;}
-#top div p span{padding:0 25px; }
+#top div p span{padding:2px 25px; }
 #top div p .sp1{background: url(../images/icon1.png)no-repeat left center;}
 #top div p .sp2{background: url(../images/icon2.png)no-repeat left center;}
 #top div p .sp3{background: url(../images/iconqq.png)no-repeat left center;}
